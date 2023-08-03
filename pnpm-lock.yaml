@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   '@astrojs/mdx':
     specifier: ^0.19.1
@@ -17,8 +21,8 @@ dependencies:
     specifier: ^3.2.5
     version: 3.2.5(astro@2.4.2)(react@18.2.0)
   '@fontsource/fira-code':
-    specifier: ^4.5.13
-    version: 4.5.13
+    specifier: ^5.0.6
+    version: 5.0.6
   '@fontsource/inter':
     specifier: ^4.5.15
     version: 4.5.15
@@ -708,8 +712,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: true
 
-  /@fontsource/fira-code@4.5.13:
-    resolution: {integrity: sha512-T1IG6/2AXSwEKwlrEm3kyIL3RQTMblPyj68HgnBGl0IBGFxgS5LZ7StRdDo/QimJ4Tz6FQGHuy1Y/ShNxaUefA==}
+  /@fontsource/fira-code@5.0.6:
+    resolution: {integrity: sha512-2P7+9TzzFVadPZ3h++oPt2WYZTPIuElK0qqWZLFd1AtxwUZkL2n+IU/E4knhoL//6UUKWcCXiQHXuSCKjZEKmQ==}
     dev: false
 
   /@fontsource/inter@4.5.15:
